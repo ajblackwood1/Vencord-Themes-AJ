@@ -1,16 +1,16 @@
 /**
-* @name Roundmoled
-* @author Malasangre#4444
+* @name AJ's RoundMod
+* @author AJ
 * @description Simple amoled black + rounded corners theme
-* @source https://github.com/tiredmala/Roundmoled
-* @updateUrl https://tiredmala.github.io/Roundmoled/BetterDiscord/roundmoled.theme.css
+* @source https://raw.githubusercontent.com/ajblackwood1/Vencord-Themes-AJ/main/roundmoled.theme.css
+* @updateUrl https://raw.githubusercontent.com/ajblackwood1/Vencord-Themes-AJ/main/roundmoled.theme.css
 * @authorId 699552486360612954
 * @version 1.1
 */
 
 /* Base theme file, don't disable */
 
-@import url("https://tiredmala.github.io/Roundmoled/main.css");
+@import url("https://raw.githubusercontent.com/ajblackwood1/Vencord-Themes-AJ/main/main.css");
 
 /*                                Optional stuff ( delete the /⃰ ⃰/ on top and below the import to enable them)                     */
 
